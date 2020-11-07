@@ -5,7 +5,7 @@
 Computer Software Engineering Student 
 Seeking A Full Time Entry Level Job 
 
-> I Love JavaScript, HTML, CSS.
+> Efficient in JavaScript, HTML, CSS.
 
 <div id="webaddress">
 <a href="mackenzie.nick@outlook.com">mackenzie.nick@outlook.com</a>
