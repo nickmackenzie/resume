@@ -20,7 +20,7 @@ Seeking A Full Time Entry Level Job
 
 ​	A full stack application that allows users to login in with their Google account which gives them access to their own database to store their code “snippets” or “blocks”. It uses NodeJs and Express for a front end framework and uses MongoDB to handle the back end. The app is able to create, update, read, and delete users documents(CRUD)The app utilizes Google Auth for security. Utilizes the Bulma CSS Framework.
 
-### W O R K    E X P E R I E N C E
+### WORK EXPERIENCE
 
 **Kitchen Manager**
 
